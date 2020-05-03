@@ -1,7 +1,7 @@
 {
     "name": "vscode-springboot-developer-pack",
-    "displayName": "vscode-springboot-developer-pack",
-    "description": "Spring Boot Developer Extension Pack",
+    "displayName": "Spring Boot Developer Extension Pack",
+    "description": "Useful extensions needed for effectively developing Spring Boot projects on Visual Studio code",
     "version": "1.0.0",
     "publisher": "developersoapbox",
     "icon": "images/spring-boot.png",
