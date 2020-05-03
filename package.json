@@ -1,0 +1,29 @@
+{
+    "name": "vscode-springboot-developer-pack",
+    "displayName": "vscode-springboot-developer-pack",
+    "description": "Spring Boot Developer Extension Pack",
+    "version": "1.0.0",
+    "publisher": "developersoapbox",
+    "icon": "images/spring-boot.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DeveloperSoapbox/vscode-springboot-developer-pack.git"
+    },
+    "keywords": [
+        "Spring Boot",
+        "Spring Framework",
+        "Java"
+    ],
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "vscjava.vscode-java-pack",
+        "Pivotal.vscode-boot-dev-pack",
+        "sohibe.java-generate-setters-getters",        
+        "developersoapbox.vscode-springboot-snippets"
+    ]
+}
