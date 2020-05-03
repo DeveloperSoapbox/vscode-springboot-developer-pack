@@ -8,7 +8,7 @@ Some of these extensions do require that you already have a JDK already setup in
 
 ### Extensions Included
 
-| Snippet                      | Publisher         | Purpose                                                       |
+| Extension                    | Publisher         | Purpose                                                       |
 | ---------------------------- | ----------------- | ------------------------------------------------------------  |
 | `Java Extension Pack`        | Microsoft         | Core Java extensions for VS                                   |
 | `Spring Boot Extension Pack` | Pivotal           | A collection of extensions for developing Spring Boot         |
